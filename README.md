@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning at the secondary school "Gymnasium am Augarten"
+
 <!--
 **johstracke/johstracke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
